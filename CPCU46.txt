@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-CPCU46
-
-
-cpcpcpcucucu
-||||||| a1fd668
-CPCU46
-=======
-Ponek is very Computer department
->>>>>>> 26aca460b7f33ef045226db66ac48bb2d2858b06
+pak com
